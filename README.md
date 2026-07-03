@@ -5,7 +5,7 @@ internal process knowledge easy to find and easy to capture — combining a
 RAG-based retrieval pipeline with automated capture of employee process
 conversations into a single searchable admin interface.
 
-![Admin panel demo](./demo.gif)
+https://github.com/user-attachments/assets/e77aa39f-3452-4e27-80dc-19753afab662
 
 ## Overview
 
