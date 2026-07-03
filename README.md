@@ -1,4 +1,4 @@
-# mls-assistant — Internal Process Knowledge Assistant
+# MLS Assistant — Internal Process Knowledge Assistant
 
 An AI-powered knowledge system built for a land surveying firm that makes
 internal process knowledge easy to find and easy to capture — combining a
